@@ -21,6 +21,10 @@ const Layout = ({ children }) => {
               router.pathname.slice(2)}
         </title>
         <meta property="og:title" content="My page title" key="title" />
+        <meta
+          name="description"
+          content="Abdulkadir Polat, I am a Frontend Developer living in Istanbul, Turkey. I produce modern web applications and learn new technologies. javascript, react, next..."
+        />
       </Head>
       <Navbar />
       <main className="w-full h-full text-white flex flex-col-reverse lg:flex-row mx-auto max-w-7xl px-5">
