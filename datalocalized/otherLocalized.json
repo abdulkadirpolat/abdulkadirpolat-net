@@ -1,0 +1,22 @@
+{
+  "aboutMe": {
+    "en": "About me",
+    "tr": "Hakkımda"
+  },
+  "aboutMeDescription": {
+    "en": "I am a Frontend Developer living in Istanbul, Turkey. I produc modern web applications and learn new technologies. I am open to innovations and I continue to keep myself improved.",
+    "tr": "İstanbul'da yaşıyorum. Frontend Developer olarak çalışıyorum. Modern web uygulamaları yapıyorum ve yeni teknolojileri öğreniyorum. İnovationlara katılıyorum ve kendimi geliştiriyorum."
+  },
+  "aboutDeveloper": {
+    "en": " I am a self-taught developer with a passion for learning new things.",
+    "tr": "Yeni şeyler öğrenmek için özgün bir programcıyım."
+  },
+  "myHobbies": {
+    "en": "My hobbies include",
+    "tr": "Hobilerim"
+  },
+  "myHobbiesDescription": {
+    "en": "Go to the Gym, reading, watching movies, playing video games and swimming.",
+    "tr": "Gym'e gitmek, kitap okumak, film izlemek, oyun oynamak ve yüzmeyi severim."
+  }
+}
