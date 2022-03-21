@@ -11,7 +11,7 @@ const navigation = [
 
 const Navbar = () => {
   return (
-    <div className="bg-space-cadet px-5">
+    <div className="bg-space-cadet px-5 z-50 fixed w-full">
       <div className="max-w-7xl mx-auto h-20 flex items-center justify-between">
         <div className="w-full">
           <Link href="/">

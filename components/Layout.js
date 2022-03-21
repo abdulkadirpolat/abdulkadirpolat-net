@@ -27,7 +27,7 @@ const Layout = ({ children }) => {
         />
       </Head>
       <Navbar />
-      <main className="w-full h-full text-white flex flex-col-reverse lg:flex-row mx-auto max-w-7xl px-5">
+      <main className="w-full pt-20 h-full text-white flex flex-col-reverse lg:flex-row mx-auto max-w-7xl px-2 sm:px-5 z-10">
         {children}
       </main>
     </div>
